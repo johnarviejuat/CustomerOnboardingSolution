@@ -1,9 +1,7 @@
 CUSTOMER ONBOARDING & REGISTRATION SYSTEM - RUN MANUAL
 
 This system is built using Clean Architecture principles with a C# .NET 
-backend and a React frontend. The application features automatic SQLite 
-database configuration, input validation, an HTML canvas electronic 
-signature pad, and interactive API documentation via Scalar.
+backend with interactive API documentation via Scalar.
 
 ------------------------------------------------------------------------
 1.RUNNING THE BACKEND (.NET API)
