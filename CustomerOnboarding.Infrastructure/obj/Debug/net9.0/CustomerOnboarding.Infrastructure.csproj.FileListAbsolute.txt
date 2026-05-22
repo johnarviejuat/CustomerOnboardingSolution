@@ -1,0 +1,17 @@
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Infrastructure\bin\Debug\net9.0\CustomerOnboarding.Infrastructure.deps.json
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Infrastructure\bin\Debug\net9.0\CustomerOnboarding.Infrastructure.dll
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Infrastructure\bin\Debug\net9.0\CustomerOnboarding.Infrastructure.pdb
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Infrastructure\bin\Debug\net9.0\CustomerOnboarding.Application.dll
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Infrastructure\bin\Debug\net9.0\CustomerOnboarding.Domain.dll
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Infrastructure\bin\Debug\net9.0\CustomerOnboarding.Application.pdb
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Infrastructure\bin\Debug\net9.0\CustomerOnboarding.Domain.pdb
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Infrastructure\obj\Debug\net9.0\CustomerOnboarding.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Infrastructure\obj\Debug\net9.0\CustomerOnboarding.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Infrastructure\obj\Debug\net9.0\CustomerOnboarding.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Infrastructure\obj\Debug\net9.0\CustomerOnboarding.Infrastructure.AssemblyInfo.cs
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Infrastructure\obj\Debug\net9.0\CustomerOnboarding.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Infrastructure\obj\Debug\net9.0\Customer.474540F0.Up2Date
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Infrastructure\obj\Debug\net9.0\CustomerOnboarding.Infrastructure.dll
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Infrastructure\obj\Debug\net9.0\refint\CustomerOnboarding.Infrastructure.dll
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Infrastructure\obj\Debug\net9.0\CustomerOnboarding.Infrastructure.pdb
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Infrastructure\obj\Debug\net9.0\ref\CustomerOnboarding.Infrastructure.dll

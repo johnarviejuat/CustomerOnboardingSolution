@@ -1,0 +1,15 @@
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Application\bin\Debug\net9.0\CustomerOnboarding.Application.deps.json
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Application\bin\Debug\net9.0\CustomerOnboarding.Application.dll
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Application\bin\Debug\net9.0\CustomerOnboarding.Application.pdb
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Application\bin\Debug\net9.0\CustomerOnboarding.Domain.dll
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Application\bin\Debug\net9.0\CustomerOnboarding.Domain.pdb
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Application\obj\Debug\net9.0\CustomerOnboarding.Application.csproj.AssemblyReference.cache
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Application\obj\Debug\net9.0\CustomerOnboarding.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Application\obj\Debug\net9.0\CustomerOnboarding.Application.AssemblyInfoInputs.cache
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Application\obj\Debug\net9.0\CustomerOnboarding.Application.AssemblyInfo.cs
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Application\obj\Debug\net9.0\CustomerOnboarding.Application.csproj.CoreCompileInputs.cache
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Application\obj\Debug\net9.0\Customer.2F91C48C.Up2Date
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Application\obj\Debug\net9.0\CustomerOnboarding.Application.dll
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Application\obj\Debug\net9.0\refint\CustomerOnboarding.Application.dll
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Application\obj\Debug\net9.0\CustomerOnboarding.Application.pdb
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Application\obj\Debug\net9.0\ref\CustomerOnboarding.Application.dll

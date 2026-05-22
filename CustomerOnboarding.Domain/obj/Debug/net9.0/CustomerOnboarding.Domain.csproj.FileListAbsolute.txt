@@ -1,0 +1,11 @@
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Domain\bin\Debug\net9.0\CustomerOnboarding.Domain.deps.json
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Domain\bin\Debug\net9.0\CustomerOnboarding.Domain.dll
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Domain\bin\Debug\net9.0\CustomerOnboarding.Domain.pdb
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Domain\obj\Debug\net9.0\CustomerOnboarding.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Domain\obj\Debug\net9.0\CustomerOnboarding.Domain.AssemblyInfoInputs.cache
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Domain\obj\Debug\net9.0\CustomerOnboarding.Domain.AssemblyInfo.cs
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Domain\obj\Debug\net9.0\CustomerOnboarding.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Domain\obj\Debug\net9.0\CustomerOnboarding.Domain.dll
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Domain\obj\Debug\net9.0\refint\CustomerOnboarding.Domain.dll
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Domain\obj\Debug\net9.0\CustomerOnboarding.Domain.pdb
+C:\Users\JOHN ARVIE JUAT\source\repos\CustomerOnboardingSolution\CustomerOnboarding.Domain\obj\Debug\net9.0\ref\CustomerOnboarding.Domain.dll
